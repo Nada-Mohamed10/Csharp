@@ -1,0 +1,14 @@
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\bin\Debug\net9.0\Datatypes&Variables.exe
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\bin\Debug\net9.0\Datatypes&Variables.deps.json
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\bin\Debug\net9.0\Datatypes&Variables.runtimeconfig.json
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\bin\Debug\net9.0\Datatypes&Variables.dll
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\bin\Debug\net9.0\Datatypes&Variables.pdb
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\Datatypes&Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\Datatypes&Variables.AssemblyInfoInputs.cache
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\Datatypes&Variables.AssemblyInfo.cs
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\Datatypes&Variables.csproj.CoreCompileInputs.cache
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\Datatypes&Variables.dll
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\refint\Datatypes&Variables.dll
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\Datatypes&Variables.pdb
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\Datatypes&Variables.genruntimeconfig.cache
+D:\CourseC#(Ahmed Mohey)\Datatypes&Variables\Datatypes&Variables\obj\Debug\net9.0\ref\Datatypes&Variables.dll

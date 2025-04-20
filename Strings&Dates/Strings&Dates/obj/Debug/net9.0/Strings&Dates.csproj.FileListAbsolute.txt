@@ -1,0 +1,15 @@
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\bin\Debug\net9.0\Strings&Dates.exe
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\bin\Debug\net9.0\Strings&Dates.deps.json
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\bin\Debug\net9.0\Strings&Dates.runtimeconfig.json
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\bin\Debug\net9.0\Strings&Dates.dll
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\bin\Debug\net9.0\Strings&Dates.pdb
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.AssemblyInfoInputs.cache
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.AssemblyInfo.cs
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.csproj.CoreCompileInputs.cache
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.sourcelink.json
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.dll
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\refint\Strings&Dates.dll
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.pdb
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\Strings&Dates.genruntimeconfig.cache
+D:\CourseC#(Ahmed Mohey)\Strings&Dates\Strings&Dates\obj\Debug\net9.0\ref\Strings&Dates.dll

@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CourseC#(Ahmed Mohey)\\Conditional Statement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB4EE44-A7D1-4EBB-B840-1BC6598F77F1}|Conditional Statement\\Conditional Statement.csproj|d:\\coursec#(ahmed mohey)\\conditional statement\\conditional statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB4EE44-A7D1-4EBB-B840-1BC6598F77F1}|Conditional Statement\\Conditional Statement.csproj|solutionrelative:conditional statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 860,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CourseC#(Ahmed Mohey)\\Conditional Statement\\Conditional Statement\\Program.cs",
+              "RelativeDocumentMoniker": "Conditional Statement\\Program.cs",
+              "ToolTip": "D:\\CourseC#(Ahmed Mohey)\\Conditional Statement\\Conditional Statement\\Program.cs",
+              "RelativeToolTip": "Conditional Statement\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:48:11.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 423,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

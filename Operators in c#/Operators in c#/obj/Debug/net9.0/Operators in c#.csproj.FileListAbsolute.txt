@@ -1,0 +1,15 @@
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\bin\Debug\net9.0\Operators in c#.exe
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\bin\Debug\net9.0\Operators in c#.deps.json
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\bin\Debug\net9.0\Operators in c#.runtimeconfig.json
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\bin\Debug\net9.0\Operators in c#.dll
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\bin\Debug\net9.0\Operators in c#.pdb
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.AssemblyInfoInputs.cache
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.AssemblyInfo.cs
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.csproj.CoreCompileInputs.cache
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.sourcelink.json
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.dll
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\refint\Operators in c#.dll
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.pdb
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\Operators in c#.genruntimeconfig.cache
+D:\CourseC#(Ahmed Mohey)\Operators in c#\Operators in c#\obj\Debug\net9.0\ref\Operators in c#.dll

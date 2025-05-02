@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants &String manipulation", "Constants &String manipulation\Constants &String manipulation.csproj", "{4AA43D0A-056F-4FB8-B375-E73881C3C61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA43D0A-056F-4FB8-B375-E73881C3C61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA43D0A-056F-4FB8-B375-E73881C3C61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA43D0A-056F-4FB8-B375-E73881C3C61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA43D0A-056F-4FB8-B375-E73881C3C61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558721FD-BC4B-47A1-8216-57BD3A7D0EAA}
+	EndGlobalSection
+EndGlobal

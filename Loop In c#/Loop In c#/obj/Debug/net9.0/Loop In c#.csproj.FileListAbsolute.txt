@@ -1,0 +1,15 @@
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\bin\Debug\net9.0\Loop In c#.exe
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\bin\Debug\net9.0\Loop In c#.deps.json
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\bin\Debug\net9.0\Loop In c#.runtimeconfig.json
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\bin\Debug\net9.0\Loop In c#.dll
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\bin\Debug\net9.0\Loop In c#.pdb
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.AssemblyInfoInputs.cache
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.AssemblyInfo.cs
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.csproj.CoreCompileInputs.cache
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.sourcelink.json
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.dll
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\refint\Loop In c#.dll
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.pdb
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\Loop In c#.genruntimeconfig.cache
+D:\CourseC#(Ahmed Mohey)\Loop In c#\Loop In c#\obj\Debug\net9.0\ref\Loop In c#.dll

@@ -1,0 +1,15 @@
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\bin\Debug\net9.0\Constants &String manipulation.exe
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\bin\Debug\net9.0\Constants &String manipulation.deps.json
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\bin\Debug\net9.0\Constants &String manipulation.runtimeconfig.json
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\bin\Debug\net9.0\Constants &String manipulation.dll
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\bin\Debug\net9.0\Constants &String manipulation.pdb
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.AssemblyInfoInputs.cache
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.AssemblyInfo.cs
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.csproj.CoreCompileInputs.cache
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.sourcelink.json
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.dll
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\refint\Constants &String manipulation.dll
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.pdb
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\Constants &String manipulation.genruntimeconfig.cache
+D:\CourseC#(Ahmed Mohey)\Constants &String manipulation\Constants &String manipulation\obj\Debug\net9.0\ref\Constants &String manipulation.dll

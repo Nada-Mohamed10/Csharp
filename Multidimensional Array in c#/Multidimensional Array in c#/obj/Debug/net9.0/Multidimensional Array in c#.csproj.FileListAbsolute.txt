@@ -1,0 +1,8 @@
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\bin\Debug\net9.0\Multidimensional Array in c#.exe
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\obj\Debug\net9.0\Multidimensional Array in c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\obj\Debug\net9.0\Multidimensional Array in c#.AssemblyInfoInputs.cache
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\obj\Debug\net9.0\Multidimensional Array in c#.AssemblyInfo.cs
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\obj\Debug\net9.0\Multidimensional Array in c#.csproj.CoreCompileInputs.cache
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\obj\Debug\net9.0\Multidimensional Array in c#.sourcelink.json
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\obj\Debug\net9.0\Multidimensional Array in c#.dll
+D:\CourseC#(Ahmed Mohey)\Multidimensional Array in c#\Multidimensional Array in c#\obj\Debug\net9.0\Multidimensional Array in c#.pdb

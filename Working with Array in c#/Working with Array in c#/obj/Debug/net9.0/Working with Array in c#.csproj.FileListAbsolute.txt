@@ -1,0 +1,15 @@
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\bin\Debug\net9.0\Working with Array in c#.exe
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\bin\Debug\net9.0\Working with Array in c#.deps.json
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\bin\Debug\net9.0\Working with Array in c#.runtimeconfig.json
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\bin\Debug\net9.0\Working with Array in c#.dll
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\bin\Debug\net9.0\Working with Array in c#.pdb
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.AssemblyInfoInputs.cache
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.AssemblyInfo.cs
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.csproj.CoreCompileInputs.cache
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.sourcelink.json
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.dll
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\refint\Working with Array in c#.dll
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.pdb
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\Working with Array in c#.genruntimeconfig.cache
+D:\CourseC#(Ahmed Mohey)\Working with Array in c#\Working with Array in c#\obj\Debug\net9.0\ref\Working with Array in c#.dll

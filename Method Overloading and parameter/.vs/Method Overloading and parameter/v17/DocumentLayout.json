@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CourseC#(Ahmed Mohey)\\Method Overloading and parameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3C06AB-3C30-4CBC-874C-3F717C5BCC34}|Method Overloading and parameter\\Method Overloading and parameter.csproj|d:\\coursec#(ahmed mohey)\\method overloading and parameter\\method overloading and parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3C06AB-3C30-4CBC-874C-3F717C5BCC34}|Method Overloading and parameter\\Method Overloading and parameter.csproj|solutionrelative:method overloading and parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3C06AB-3C30-4CBC-874C-3F717C5BCC34}|Method Overloading and parameter\\Method Overloading and parameter.csproj|d:\\coursec#(ahmed mohey)\\method overloading and parameter\\method overloading and parameter\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3C06AB-3C30-4CBC-874C-3F717C5BCC34}|Method Overloading and parameter\\Method Overloading and parameter.csproj|solutionrelative:method overloading and parameter\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 860,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "D:\\CourseC#(Ahmed Mohey)\\Method Overloading and parameter\\Method Overloading and parameter\\Guest.cs",
+              "RelativeDocumentMoniker": "Method Overloading and parameter\\Guest.cs",
+              "ToolTip": "D:\\CourseC#(Ahmed Mohey)\\Method Overloading and parameter\\Method Overloading and parameter\\Guest.cs",
+              "RelativeToolTip": "Method Overloading and parameter\\Guest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:27:49.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CourseC#(Ahmed Mohey)\\Method Overloading and parameter\\Method Overloading and parameter\\Program.cs",
+              "RelativeDocumentMoniker": "Method Overloading and parameter\\Program.cs",
+              "ToolTip": "D:\\CourseC#(Ahmed Mohey)\\Method Overloading and parameter\\Method Overloading and parameter\\Program.cs",
+              "RelativeToolTip": "Method Overloading and parameter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:26:06.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 423,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
